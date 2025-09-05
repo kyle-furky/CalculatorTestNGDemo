@@ -8,7 +8,7 @@ public class Calculator3Test {
     public Object[][] provideData(){
         return new Object[][]{
                 {2,3,6},
-                {0,5,0},equals(qq)1         `1      1
+                {0,5,0},
                 {-2,4-8},
                 {-3,-3,9}
         };
